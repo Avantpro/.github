@@ -6,5 +6,5 @@
 </p>
 
 <h1 align="center">
-  <img alt="Avantpro" title="#Avantpro" src="banner.png" />
+  <img alt="Avantpro" title="#Avantpro" src="../assets/banner.png" />
 </h1>
