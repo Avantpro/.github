@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./banner.png" />
+  <img alt="Avantpro" title="#Avantpro" src="./banner.png" />
 </h1>
 
 <!--
