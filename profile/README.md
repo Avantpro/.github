@@ -31,7 +31,7 @@
 <!-- ML -->
 <img align="left" alt="Avantpro ML" title="#Avantpro-ML" src="/profile/assets/avantpro-ml.png" />
 
-<h3 id="ml">ML</h3>
+<h3 id="ml">Avantpro ML</h3>
 <div>
 	<p>O Avantpro para Mercado Livre é a nossa primeira e maior ferramenta, com mais de 70mil usuários!<p>
 	<p>Sendo uma extensão para o seu navegador, o Avantpro para ML altera parcialmente o visual do marketplace, adicionando informações relevantes para auxiliar os vendedores.</p>
