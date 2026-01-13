@@ -38,17 +38,6 @@
 </div>
 <p><br/></p>
 
-<!-- Black -->
-<img align="left" alt="Avantpro Black" title="#Avantpro-Black" src="/profile/assets/avantpro-black.png" />
-
-<h3 id="black">Avantpro Black</h3>
-<div>
-	<p>Avantpro Black é uma ferramenta de gestão e análise focada no marketplace Mercado Livre.</p>
-	<p>Com um dashboard com informações da conta do seller, páginas de ferramentas variadas e métricas do vendedor, o Black é a opção perfeita para quem quer ficar na frente no ML</p>
-	<p></p>
-</div>
-<p><br/></p>
-
 <!-- SHP -->
 <img align="left" alt="Avantpro SHP" title="#Avantpro-SHP" src="/profile/assets/avantpro-shp.png" />
 
@@ -71,14 +60,3 @@
 
 <h3 id="shp">Avantpro SHN</h3>
 <p>A extensão Avantpro para SHN disponibiliza informações para vendedores que anunciam na Shein.</p>
-<p><br/></p>
-<p><br/></p>
-
-<!-- kit -->
-<img align="left" alt="Avantpro kit" title="#Avantpro-kit" src="/profile/assets/avantpro-kit.png" />
-
-<h3 id="shp">Kit Avantpro</h3>
-<div>
-	<p>O Kit Avantpro é uma junção de funcionalidades para sites variados.</p>
-	<p>Sendo uma extenção totalmente gratuita, o Kit disponibiliza funções para o Google Maps e download de imagens em mais de 30 marketplaces.</p>
-</div>
