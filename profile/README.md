@@ -28,7 +28,7 @@
 > [!NOTE]
 > A maioria de nossas ferramentas são extensões para o Google Chrome, facilitando a usabilidade pelos marketplaces na internet.
 
-<h6>Temos 6 ferramentas no total!</h6>
+<h6>Temos +5 ferramentas no total!</h6>
 <p><br/></p>
 
 <!-- ML -->
