@@ -22,10 +22,12 @@
   <a href="https://avantpro.com.br/">Veja nosso site!</a>
 </p>
 
-<!-- Ferramentas -->
+<!-- Área "Ferramentas" -->
 <h2 id="products">Ferramentas</h2>
+
 > [!NOTE]
-> A maioria das ferramentas são extensões para o Google Chrome.
+> A maioria de nossas ferramentas são extensões para o Google Chrome, facilitando a usabilidade pelos marketplaces na internet.
+
 <h6>Temos 6 ferramentas no total!</h6>
 <p><br/></p>
 
